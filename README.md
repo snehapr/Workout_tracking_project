@@ -6,5 +6,6 @@
 5. The API key and APP ID for the Nutritionix API is different for different users and can be fetched after sign-in to the website.
 6. The Auth token for the SHEETY API can be fetched after sign-in to the website.
 7. Please replace these variables accordingly in the code.
-   <img width="383" alt="image" src="https://github.com/snehapr/Workout_tracking_project/assets/42031979/ef5964e3-1718-4cbe-bc79-560014eb45db">
+
+<img width="383" alt="image" src="https://github.com/snehapr/Workout_tracking_project/assets/42031979/ef5964e3-1718-4cbe-bc79-560014eb45db">
 
